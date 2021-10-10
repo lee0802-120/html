@@ -64,7 +64,7 @@ body {
 .tree {
     background: #67c23a;
 }
-.zee {
+.zeeLeft {
     background: #e6a23c;
 }
 .elLeft {
@@ -75,4 +75,7 @@ body {
 }
 .square {
     background: #2c82c9;
+}
+.zeeRight {
+    background: #23c9f3;
 }
