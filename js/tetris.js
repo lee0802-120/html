@@ -12,7 +12,7 @@ const GAME_COLS = 10;
 
 // variables
 let score = 0;
-let duration = 650;
+let duration = 700;
 let downInterval;
 let tempMovingItem;
 
