@@ -1,3 +1,6 @@
+// java SCRIPT TETRIS coding
+
+
 import BLOCKS from "./blocks.js"
 
 // DOM
